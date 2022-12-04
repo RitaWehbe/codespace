@@ -1,1 +1,2 @@
-$input
+def main():
+    
